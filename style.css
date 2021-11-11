@@ -48,5 +48,22 @@ p{
     color:maroon;
 }
 .credits li {
-    color:mintcream
+    color:mintcream;
+    font-size: 20px;
+}
+ul.credits {
+    font-size: 30px;
+    text-align: center;
+}
+a.links {
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+    align-content: center;
+}
+a.links:hover {
+    font-family: fantasy;
+}
+a.links:visited {
+    color: orange
 }
