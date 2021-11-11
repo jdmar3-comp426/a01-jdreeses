@@ -4,6 +4,36 @@
 * {
     background-color: gray;
 }
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: rgb(95, 2, 2);
+}
+h3 {
+    color:rosybrown
+}
+a {
+    color:salmon
+}
+ol {
+    font-size: 20px;
+}
+img {
+    border-radius: 5px;
+}
+h4 {
+    color: green;
+}
+h5 {
+    color: blue;
+}
+h6 {
+    font-size: 21px;
+}
+span {
+    color: purple;
+}
 .heading {
     font-size: 80px;
     color: maroon;
