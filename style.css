@@ -43,3 +43,10 @@ p{
     text-align: center;
     background: crimson;
 }
+.credits {
+    font-size: 15px;
+    color:maroon;
+}
+.credits li {
+    color:mintcream
+}
