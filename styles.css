@@ -1,0 +1,99 @@
+* {
+    font-family: Arial;
+}
+* {
+    background-color: gray;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: rgb(95, 2, 2);
+}
+h3 {
+    color:rosybrown
+}
+a {
+    color:salmon
+}
+ol {
+    font-size: 20px;
+}
+img {
+    border-radius: 5px;
+}
+h4 {
+    color: green;
+}
+h5 {
+    color: blue;
+}
+h6 {
+    font-size: 21px;
+}
+span {
+    color: purple;
+}
+.heading {
+    font-size: 80px;
+    color: maroon;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.blackBackground {
+    background-color: #000000;
+}
+.whiteBackground {
+    background: #f5f5f5;
+}
+.image {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: firebrick;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+    width: 400px;
+    height:300px
+}
+#amongUsLink:hover {
+    color: orange;
+}
+p{
+    background-color: wheat;
+    font-size: 20px;
+}
+.biggertext {
+    font-size: 40px;
+    text-align: center;
+}
+#topicsOfInterest {
+    font-size: 45px;
+    text-align: center;
+    background: crimson;
+}
+.credits {
+    font-size: 15px;
+    color:maroon;
+}
+.credits li {
+    color:mintcream;
+    font-size: 20px;
+}
+ul.credits {
+    font-size: 30px;
+    text-align: center;
+}
+a.links {
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+    align-content: center;
+}
+a.links:hover {
+    font-family: fantasy;
+}
+a.links:visited {
+    color: orange
+}
